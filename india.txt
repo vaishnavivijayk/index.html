@@ -1,0 +1,11 @@
+<html>
+<head>
+<title>INDIA</title>
+</head>
+<body bgcolor="drive"><font color="white" face="timesnewroman">
+<h1 align="center">	INDIA</h1>
+<h4>
+<p><b>India i8s a country in south asia.it is the seventh largest coutry bt area,the most popular country and the worlds most popular democracy,bounded by the indian ocean on the south,the arabia sea on the southwestand the bay ofbengal on southeast,it shares land border wit pakistan to the west,china,nepal and butan,tyo the north,and bangladesh and myanmar to the east,in the indin ocean,india is in the vicinity of srilanka and maldives,itts anaman and nicobar islands share a maritime border with thailand,myanmer and indonesia</b></p>
+<table border="2" width="100%" height="100%">
+<td><h1>flag<br>img src="https://www.timedoctor.com/blog/images/2021/07/Average-Salary-in-India-2.jpg"
+</html>
